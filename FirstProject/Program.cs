@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
+// Hypotenuese Calculator
+
 Console.WriteLine("Enter side A");
 double sideA = Convert.ToDouble(Console.ReadLine());
 
